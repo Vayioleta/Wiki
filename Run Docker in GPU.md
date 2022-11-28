@@ -1,4 +1,4 @@
-## Put Docker in GPU
+## Run Docker in GPU
 
 **Requirements**
 > you must have NVIDIA Drivers CUDA Version: 12.0
